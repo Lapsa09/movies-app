@@ -1,0 +1,20 @@
+.search {
+    background-color: #373b69;
+    padding: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.search-bar {
+    font-family: inherit;
+    font-size: 1.2rem;
+    border: 2px solid #22254b;
+    border-radius: 50px;
+    background-color: transparent;
+    color: #22254b;
+    padding: 0.5rem 1.5rem;
+}
+
+.search-bar:focus {
+    outline: none;
+}
